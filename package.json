@@ -1,0 +1,23 @@
+{
+  "name": "file-manager",
+  "version": "1.0.0",
+  "description": "file-manager implementation",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oryngalikarimzhan/file-manager.git"
+  },
+  "keywords": [
+    "file-manager"
+  ],
+  "author": "Karimzhan Oryngali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oryngalikarimzhan/file-manager/issues"
+  },
+  "homepage": "https://github.com/oryngalikarimzhan/file-manager#readme"
+}
