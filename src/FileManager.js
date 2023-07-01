@@ -57,7 +57,7 @@ export class FileManager {
       parameters: 1,
     },
     ls: {
-      operationFn: operation.showDirList,
+      operationFn: operation.showList,
     },
     up: {
       operationFn: operation.goUpperPath,
